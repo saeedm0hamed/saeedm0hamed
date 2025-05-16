@@ -8,7 +8,7 @@
 ## 💻 Technical Skills  
 
 - ***Languages:** C++, C#, HTML, CSS, JavaScript, SQL*
-- ***Technologies:** ASP .NET, MySQL, Node.js*  
+- ***Technologies:** ASP.NET, MySQL, Node.js*  
 - ***Tools:** Git, GitHub, Linux, SSMS, Postman*  
 
 ## 📫 Stay in touch!
