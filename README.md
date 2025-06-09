@@ -9,7 +9,7 @@
 - **Co-Founder** @ [*Codology*](https://www.facebook.com/codology)
 
 ## 💻 Technical Skills  
-- **Languages:** *Java, C++, C#, SQL, HTML, CSS, JavaScript*
+- **Languages:** *C++, C#, SQL, HTML, CSS, JavaScript*
 - **Technologies:** *ASP.NET MVC Core, MySQL*  
 - **Tools:** *Git, GitHub, Postman, SSMS*  
 
