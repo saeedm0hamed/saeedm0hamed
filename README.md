@@ -8,7 +8,7 @@
 - 2nd Year **Computer Science Student** @ *Arish University*
 - **.NET Web Developer Graduate** @ [*DEPI*](https://depi.gov.eg/content/home)
 - **Technical Head** @ [*FCI-ARU Student Union*](https://www.facebook.com/FCIARU.SU)
-- **Co-Founder** @ [*Codology*](https://www.facebook.com/codology)
+- **Leader** @ [*Codology*](https://www.facebook.com/codology)
 
 ## 💻 Technical Skills  
 - **Languages:** *C++, C#, SQL, HTML, CSS, JavaScript*
