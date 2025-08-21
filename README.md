@@ -1,24 +1,36 @@
-<p align="center">
+<p align="left">
   <img src="logo.jpg">
 </p>
 
-# Hi! 👋
-**Who am I?** 👨‍💻
-- **Software Engineer** Passionate About **Backend**
-- 2nd Year **Computer Science Student** @ *Arish University*
-- **.NET Web Developer Graduate** @ [*DEPI*](https://depi.gov.eg/content/home)
-- **Technical Head** @ [*FCI-ARU Student Union*](https://www.facebook.com/FCIARU.SU)
-- **Leader** @ [*Codology*](https://www.facebook.com/codology)
+#
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
 
-## 💻 Technical Skills  
-- **Languages:** *C++, C#, SQL, HTML, CSS, JavaScript*
-- **Technologies:** *ASP.NET MVC Core, MySQL*  
-- **Tools:** *Git, GitHub, Postman, SSMS*  
 
-## 🔗 Links
-[![CV | RESUME](https://img.icons8.com/?size=30&id=ymirmZtDtCts&format=png&color=000000)](https://flowcv.com/resume/upo4ggiejk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeedm0hamed/) [![[Facebook]](https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/saeedm0hamed) [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saeedmohamed.fs@gmail.com) 
-
-## 📊 Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saeedm0hamed&show_icons=true&theme=dark&locale=en&layout=compact"/></p>
-
-
+#
+[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saeedmohamed.fs@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-222222?style=for-the-badge&logo=react&logoColor=00FD83)](https://sae8d.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeedm0hamed/)
