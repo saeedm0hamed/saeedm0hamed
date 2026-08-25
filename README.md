@@ -3,9 +3,18 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Saeed Mohamed</h1>
-<h3 align="center">Software Engineer • Web Developer</h3>
+    <div align="left">
+        <p>
+            <strong>
+                Computer Science Student, Back-End Engineer, and a Problem Solver.<br><br>
+                Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
+            </strong>
+        </p>
+    </div>
 
-- 🌱 I’m currently learning DevOps **DEPI**
+- 🌱 I’m currently learning DevOps via **DEPI**
+
+- ⚡Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, and Design Patterns.
 
 - 👨‍💻 All of my projects are available at [https://sae8d.vercel.app/](https://sae8d.vercel.app/)
 
